@@ -1,0 +1,11 @@
+.container{
+	max-width: 45%;
+}
+
+.container-fluid{
+	background-color:#17a2b8;
+	color: #FFF;
+	display:inline-block;
+    text-align: left;
+    padding: 10px;
+}
